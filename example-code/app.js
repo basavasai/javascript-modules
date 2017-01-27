@@ -15,7 +15,7 @@ import './not-a-module';
 // import an exported object
 import coolDude from './object-export';
 
-console.log(coolDude);
+console.log('Sai');
 
 // import 
 
